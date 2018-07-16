@@ -1,0 +1,12 @@
+c:\users\user\source\repos\16.07.18\16.07.18\bin\Debug\Class.mdf
+c:\users\user\source\repos\16.07.18\16.07.18\bin\Debug\Class_log.ldf
+c:\users\user\source\repos\16.07.18\16.07.18\bin\Debug\16.07.18.exe.config
+c:\users\user\source\repos\16.07.18\16.07.18\bin\Debug\16.07.18.exe
+c:\users\user\source\repos\16.07.18\16.07.18\bin\Debug\16.07.18.pdb
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\16.07.18.csprojAssemblyReference.cache
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\_16._07._18.Form1.resources
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\_16._07._18.Properties.Resources.resources
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\16.07.18.csproj.GenerateResource.cache
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\16.07.18.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\16.07.18.exe
+c:\users\user\source\repos\16.07.18\16.07.18\obj\Debug\16.07.18.pdb
